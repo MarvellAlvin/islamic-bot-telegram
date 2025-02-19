@@ -1,4 +1,4 @@
-# data_list.py
+# data_lists.py
 
 list_dzikir = [
     "Subhanallah, walhamdulillah, wa laa ilaaha illallah, wallahu akbar",
